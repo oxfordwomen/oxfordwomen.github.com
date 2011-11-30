@@ -1,0 +1,46 @@
+<html lang="en-GB">
+
+  <head>
+    <title>{{ page.title }} -- Oxford International Women's Festival</title> 
+    <meta charset="utf-8">
+    <link href="/css/main.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Montez|Ovo' rel='stylesheet'>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.0.6/modernizr.min.js"></script>
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      <div id="header">
+        <div class="inner">
+          <a href="/"><img id="logo" src="/img/header-logo.gif" alt="OIWF Logo"></a>
+          <h1>Oxford International Women’s Festival</h1>
+          <div id="nav">
+              {% include nav.html %}
+          </div>
+        </div>
+      </div>
+
+      <div id="content">
+        <div class="inner">
+          {% if page.extras contains 'subnav' %}
+            {% if page.extras contains 'subnav-about' %}
+              {% include subnav_about.html %}
+            {% endif %}
+          {% endif %}
+          {{ content }}
+        </div>
+      </div>
+
+      <div id="footer">
+        <div class="inner">
+          <a href="mailto://oxfordwomen@gmail.com">
+            &copy; Oxford International Women's Festival.
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </body>
+
+</html>

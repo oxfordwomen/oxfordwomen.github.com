@@ -1,0 +1,25 @@
+<ul>
+  <li{% if page.navitem == 'home' %} class="selected" {% endif %}>
+    <a href="/">Home</a>
+  </li>
+  <li{% if page.navitem == 'about' %} class="selected" {% endif %}>
+    <a href="/about/">About</a>
+  </li>
+  <li{% if page.navitem == 'events' %} class="selected" {% endif %}>
+    <a href="/events/">Events</a>
+  </li>
+  {% comment %}
+  <li{% if page.navitem == 'gallery' %} class="selected" {% endif %}>
+    <a href="/gallery/">Gallery</a>
+  </li>
+  {% endcomment %}
+  <li{% if page.navitem == 'help' %} class="selected" {% endif %}>
+    <a href="/help/">How to help</a>
+  </li>
+  <li{% if page.navitem == 'links' %} class="selected" {% endif %}>
+    <a href="/links/">Links</a>
+  </li>
+  <li{% if page.navitem == 'contact' %} class="selected" {% endif %}>
+    <a href="/contact/">Get in touch</a>
+  </li>
+</ul>

@@ -1,0 +1,18 @@
+<div id="subnav">
+  <ul>
+    <li{% if page.subnavitem == 'festival' %} class="selected" {% endif %}>
+        <a href="/about/">The Festival</a>
+    </li>
+    <li{% if page.subnavitem == 'history' %} class="selected" {% endif %}>
+        <a href="/about/history/">History of the Festival</a>
+    </li>
+    <li{% if page.subnavitem == 'bios' %} class="selected" {% endif %}>
+        <a href="/about/biographies/">Biographies</a>
+    </li>
+    {% comment %}
+    <li{% if page.subnavitem == 'governance' %} class="selected" {% endif %}>
+        <a href="/about/governance/">Governance</a>
+    </li>
+    {% endcomment %}
+  </ul>
+</div>

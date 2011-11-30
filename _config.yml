@@ -1,0 +1,6 @@
+auto: true
+pygments: true
+server: true
+permalink: :url
+
+exclude: _owif
