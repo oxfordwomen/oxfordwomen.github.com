@@ -6,8 +6,6 @@ title: Events
 
 # Events
 
-## [Abba Mamma Mia Sing-a-along-a Christmas!](/events/sing-xmas/)
+## [Oxford International Women's Festival 2012](/events/oiwf-2012/)
 
-*East Oxford Community Centre.*
-
-*Saturday 3rd December, 7.30 &ndash; 10pm.*
+<p><strong>1st &ndash; 13th March</strong> <em>(Main Event on International Women's Day, 8th March.)</em></p>

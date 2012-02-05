@@ -186,6 +186,7 @@ body{
 #content h1, #content h2, #content h3, #content h4{
     color: #51215B;
     clear: left;
+    margin-top: 50px;
 }
 #content img{
     border: 1px solid #ccc;
