@@ -148,12 +148,16 @@ Free.
 Monday 5th March
 ----------------
 
-### 1st Annual OxFEST Symposium
+### 1st Annual OxFEST Symposium, *"Can you have it all?"*
 
-**Venue to be confirmed.**
+**The Christopher Room, St Aldates Church and Parish Centre.**
 
-*9.30 am – 6 pm.*
+*9.30 am – 5 pm.*
 Free.
+
+This full-day symposium will address the challenges that women face as they progress in their careers. Talks will focus on gender equality, work-life balance, policy making, women in entrepreneurship and academia, and modern leadership. Workshops will focus on "Assertiveness", "Public Speaking", and "Yoga at your Workplace". Lunch, refreshments and drinks reception will be provided.
+
+[oxfest.webs.com](http://oxfest.webs.com/)
 
 
 ### Diversity is ‘Everything’: exhibition and creative activities
@@ -191,8 +195,11 @@ Tuesday 6th March
 Free (donations to OSARCC).
 *Please RSVP – booking essential.*
 
+This year for Oxford International Women's Festival, a group of women have organised a walk by the river in the early evening to experince the freedom that is often denied to women because it seems dangerous.
+Meet at the Town hall at 6.00pm, walk up to Iffley Lock (about 40 minutes) and got to the Grovehouse at Iffley Turn to eat and talk togther.
+Children welcome, wheelchair accesible for most of the walk (please call to discuss arrangements).
 
-
+Contact Clare on 07761702156 or email [rtn.oxford@gmail.com](mailto:rtn.oxford@gmail.com) to book a free place.
 
 
 Wednesday 7th March
