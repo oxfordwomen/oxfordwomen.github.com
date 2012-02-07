@@ -6,7 +6,7 @@ subnavitem: bios
 title: Kate Clayton-Hathway
 ---
 
-#Kate Clayton-Hathaway, festival secretary
+#Kate Clayton-Hathway, festival secretary
 
 I’ve been involved in campaigning for human rights for over 20 years, and became involved in OIWF as coordinator for the Oxford Amnesty International Stop Violence Against Women campaign. I loved the idea of diverse groups of women getting together to plan community events, and enjoyed meeting women from different backgrounds and learning from their experiences.
 
