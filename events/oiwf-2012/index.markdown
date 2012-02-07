@@ -141,8 +141,10 @@ Free.
 
 **5 Duke Street, off Botley Road.**
 
-*Two sessions as places are limited: 2.30 – 4 pm and 7.30 – 9 pm.*
+*Booking essential as places are limited to 8 per session.Two sessions: 2.30 – 4 pm and 7.30 – 9 pm.*
 £10, includes light refreshments and a signed copy of the book.
+
+Contact Mary Russell on 07780531517.
 
 
 Monday 5th March
