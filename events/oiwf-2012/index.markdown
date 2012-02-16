@@ -7,17 +7,6 @@ title: Oxford International Women's Festival 2012
 Oxford International Womens Festival 2012
 =========================================
 
-Thursday 1st March
-------------------
-
-### Vagina Monologues
-
-**Old Fire Station, George Street.**
-
-*7.30 – 9.15 pm.*
-£5 (£3).
-
-
 Friday 2nd – Sunday 11th March
 ------------------------------------
 
@@ -54,7 +43,7 @@ Free.
 **Old Fire Station, George Street.**
 
 *7.30 – 9.15 pm.*
-£5 (£3).
+£5 (£3). [Tickets here](http://oxfordvaginamonologues2012.eventbrite.co.uk/).
 
 
 Saturday 3rd March
@@ -104,7 +93,7 @@ Donations to the Oxford-Leon Association and Trust.
 **Old Fire Station, George Street.**
 
 *7.30 pm – 9.15 pm.*
-£5 (£3).
+£5 (£3). [Tickets here](http://oxfordvaginamonologues2012.eventbrite.co.uk/).
 
 
 Sunday 4th March
@@ -152,12 +141,35 @@ Monday 5th March
 
 ### 1st Annual OxFEST Symposium, *"Can you have it all?"*
 
-**The Christopher Room, St Aldates Church and Parish Centre.**
+**The Linbury Room, Worcester College.**
 
 *9.30 am – 5 pm.*
 Free.
 
-This full-day symposium will address the challenges that women face as they progress in their careers. Talks will focus on gender equality, work-life balance, policy making, women in entrepreneurship and academia, and modern leadership. Workshops will focus on "Assertiveness", "Public Speaking", and "Yoga at your Workplace". Lunch, refreshments and drinks reception will be provided.
+[Register for your FREE Ticket here](http://oxfest.eventbrite.co.uk/?ebtv=C):
+
+This full-day symposium, open to men AND women, will address the challenges that women face as they progress in their careers.  Talks will focus on gender equality, work-life balance, policy making, women in entrepreneurship and academia, and modern leadership.  Workshops will focus on ‘Assertiveness’, ‘Public Speaking', and 'Yoga at your Workplace'. Lunch, refreshments and drinks reception will be provided.
+
+Aims:
+
+1. Educate the audience on current policies which aim to help bridge the gender gap 
+2. Encourage women to progress in their careers through the stories of inspirational and prominent women in business and academia
+3. Prepare participants for the workforce by helping them develop valuable skills 
+4. Raise the awareness that traditionally masculine roles in leadership are changing
+
+Speakers:
+
+- Dr Elizabeth Pollitzer, Organizer of European Gender Summit
+- Prof Frances Ashcroft, 2012 Winner of Loreal Unesco Women in Science Award
+- Prof Mary Evans, Author of "Killing Thinking" and "Jane Austen and the State"
+- Prof Ottoline Leyser, Author of "Mothers in Science"
+- Ms Trudy Coe, Head of the Equality and Diversity Unit, University of Oxford
+
+Workshops:
+
+- Assertiveness
+- Public Speaking
+- Yoga at Your Workplace
 
 [oxfest.webs.com](http://oxfest.webs.com/)
 
